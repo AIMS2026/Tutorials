@@ -33,7 +33,3 @@ The repository contains materials for tutorial presentations for the AIMS 2026 e
 
 ---
 
-
-
-*For questions or updates, please open an issue or submit a pull request.*
-
