@@ -9,7 +9,7 @@ The repository contains materials for tutorial presentations for the AIMS 2026 e
 | Time | Speaker | Institution | Talk Title |
 |------|---------|-------------|------------|
 | 1:00–1:45 pm | Lily Weng | University of California San Diego | Towards Trustworthy AI: A Principled Interpretability Perspective |
-| 1:45–2:30 pm | Seungmo Lee | University of California Los Angeles | The Right Tool for Each Modality: Machine Learning & Algorithms in Clinical Pathogen Diagnostics |
+| 1:45–2:30 pm | Seungmo Lee | University of California Los Angeles | [The Right Tool for Each Modality: Machine Learning & Algorithms in Clinical Pathogen Diagnostics](https://github.com/543090lee/AIMS2026-SEUNGMO) |
 
 ---
 
