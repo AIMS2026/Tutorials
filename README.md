@@ -19,7 +19,7 @@ The repository contains materials for tutorial presentations for the AIMS 2026 e
 | Time | Speaker | Institution | Talk Title |
 |------|---------|-------------|------------|
 | 1:00–1:45 pm | Yueying Ni | University of Michigan | [Multimodal Learning for Galaxies: Contrastive and Generative Approaches](https://github.com/yueyingn/Multimodal-galaxy-tutorial) |
-| 1:45–2:30 pm | Radha Mastandrea | University of Chicago | ContrAst: A Factorized Approach to Finetuning Multimodal Foundational Models for Astrophysical Data |
+| 1:45–2:30 pm | Radha Mastandrea | University of Chicago | [ContrAst: A Factorized Approach to Finetuning Multimodal Foundational Models for Astrophysical Data](https://drive.google.com/file/d/1uvdMURsblQdBM3srkRugRcAeMc8oMI3r/view) |
 
 ---
 
