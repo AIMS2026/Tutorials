@@ -29,7 +29,7 @@ The repository contains materials for tutorial presentations for the AIMS 2026 e
 | Time | Speaker | Institution | Talk Title |
 |------|---------|-------------|------------|
 | 1:00–1:45 pm | Rohan Singh Wilkho | Cornell University | [What Are They Optimizing For? Inverse Reinforcement Learning for Inferring Hidden Objectives from Observed Decisions](https://github.com/RohanSWilkho93/irl-reservoir-operations) |
-| 1:45–2:30 pm | Yasir Latif | Cornell University | Machine Learning Analysis of North Atlantic Ocean Memory and Tropical Teleconnections |
+| 1:45–2:30 pm | Yasir Latif | Cornell University | [Machine Learning Analysis of North Atlantic Ocean Memory and Tropical Teleconnections](https://github.com/Yasam723/AIMS2026/blob/main/NA_Memory_Tutorial.ipynb) |
 
 ---
 
